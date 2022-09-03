@@ -1,0 +1,13 @@
+notes
+
+
+    routes - "the rules"
+        - where we define what routes our app supports
+        - this i what the clients of our server will interact with, "contract"
+
+    controllers - "the how(work)"
+        - this is the code that implements our contracts
+        - this is the code that executes the logic that honors the contract
+
+    model
+        - this is the code that handles the data layer
